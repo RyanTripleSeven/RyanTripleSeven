@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### RyanTripleSeven
+I'm currently working on a custom-silicon chip to go in my new VR headset, TripleSevenXR. TSXR will be the world's first fully in-house VR headset, from the processor to the housing.
 <!--
 **RyanTripleSeven/RyanTripleSeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
